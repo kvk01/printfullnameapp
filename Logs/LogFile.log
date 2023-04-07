@@ -1,0 +1,6 @@
+[2023-04-06T18:03:58.146Z] [INFO] First Name entered: Varun
+[2023-04-06T18:04:00.322Z] [INFO] Last Name entered: Karthik
+[2023-04-06T18:04:00.323Z] [WARN] Your full name is: Varun Karthik
+[2023-04-06T18:04:00.323Z] [INFO] Your full name is: Varun Karthik
+[2023-04-06T18:04:00.323Z] [DEBUG] Your full name is: Varun Karthik
+[2023-04-06T18:04:00.323Z] [ERROR] Your full name is: Varun Karthik

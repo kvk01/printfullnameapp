@@ -1,0 +1,4 @@
+[2023-04-06T18:03:54.440Z] [DEBUG] Debug message
+[2023-04-06T18:03:54.440Z] [INFO] Informational message
+[2023-04-06T18:03:54.440Z] [WARN] A warning occurred
+[2023-04-06T18:03:54.439Z] [ERROR] An error occurred

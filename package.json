@@ -1,0 +1,24 @@
+{
+  "name": "printfullnameapp",
+  "version": "1.0.0",
+  "description": "App to Understand how eslint and logger works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvk01/printfullnameapp.git"
+  },
+  "author": "kvk01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvk01/printfullnameapp/issues"
+  },
+  "homepage": "https://github.com/kvk01/printfullnameapp#readme",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
